@@ -23,7 +23,11 @@ public class Main {
  * max tries 3 if not correct code inputted then will stop
  * if correct will return integer 1 as flag for the whole program to continue or not
  * 
- */
+ * 
+ * july 8 2025 finished crud send evaluation email send and database and the forms make a mode using enums or other stuff so you can stay on an operation rather than going back rigt
+ * away to the main method
+ */ 
+
 
 // found a design pattern for crud but gonna let the design pattern strategy for the other crud for now but for future use composite for crud 
 
